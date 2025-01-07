@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anzhelika</h1>
 <h3 align="center">A passionate frontend developer from Ukraine, currently living in the US</h3>
 
-- 🌱 I’m currently learning **Front End and Back End technologies.**
-
 - 📫 How to reach me **anzhelikakhamaza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
